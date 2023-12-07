@@ -1,0 +1,5 @@
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\Logica\cls_logica\cls_logica\bin\Debug\cls_logica.dll
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\Logica\cls_logica\cls_logica\bin\Debug\cls_logica.pdb
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\Logica\cls_logica\cls_logica\obj\Debug\cls_logica.csprojResolveAssemblyReference.cache
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\Logica\cls_logica\cls_logica\obj\Debug\cls_logica.dll
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\Logica\cls_logica\cls_logica\obj\Debug\cls_logica.pdb

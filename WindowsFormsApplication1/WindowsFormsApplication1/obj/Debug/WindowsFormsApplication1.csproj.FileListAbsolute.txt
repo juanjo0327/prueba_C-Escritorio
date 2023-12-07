@@ -1,0 +1,12 @@
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cls_logica.dll
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\cls_logica.pdb
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ModificarForm.resources
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\juan.salasz\Desktop\Proyecto_c#_Escritorio\prueba_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
